@@ -1,6 +1,6 @@
 export const SAT_BASE_URL = "https://www.n2yo.com/rest/v1/satellite";
 
-export const SAT_API_KEY = "9L2EJB-L9XGAE-72A5JK-4J14"; // Don’t copy this, use the API license key you get from N2YO
+export const SAT_API_KEY = "YOUR_N2YO_KEY"; // Don’t copy this, use the API license key you get from N2YO
 
 export const STARLINK_CATEGORY = "52";
 
